@@ -3,7 +3,7 @@
 <b> Personal finance manager :</b> Overview: The Personal Finance Manager is a Python-based application designed to help individuals manage their finances effectively. It provides users with tools to track their income, expenses, and overall financial health. By organizing transactions, generating reports, and offering insights, the application empowers users to make informed financial decisions and achieve their financial goals.
 Features:
 ### 1.	Transaction Management:
-•	Users can add income and expenses to the system.
+<p>•	Users can add income and expenses to the system.</p>>
 •	Each transaction includes details such as date, description, and amount.
 •	Transactions are stored securely within the application.
 ### 2.	Transaction History:
